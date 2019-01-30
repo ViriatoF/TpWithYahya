@@ -12,6 +12,7 @@ namespace ConsoleApp1git
         {
             Console.WriteLine("Hello it's me l''ovni");
             Console.WriteLine("On m'appelle l'ovni!");
+            Console.WriteLine("Yahya s'en va en guerre mironton mironton mirontaine!");
             //test
         }
     }
