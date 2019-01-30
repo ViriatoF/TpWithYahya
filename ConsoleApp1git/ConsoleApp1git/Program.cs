@@ -11,6 +11,7 @@ namespace ConsoleApp1git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello it's me l''ovni");
+            Console.WriteLine("On m'appelle l'ovni!");
         }
     }
 }
