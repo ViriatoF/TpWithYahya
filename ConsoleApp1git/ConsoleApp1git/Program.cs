@@ -12,8 +12,8 @@ namespace ConsoleApp1git
         {
             Console.WriteLine("Hello it's me l''ovni");
             Console.WriteLine("On m'appelle l'ovni!");
-            
-            //test
+            Console.WriteLine("Ronaldo");
+            Console.WriteLine("Sta'rxidia mou!!!");
         }
     }
 }
